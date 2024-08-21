@@ -1,0 +1,191 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h2 {
+    position: absolute;
+    top: 20px; 
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+#NFlabel {
+    padding-top: 5px; 
+    text-align: left;
+    font-size: 20px;
+}
+
+#NF {
+    padding-top: 5px; 
+    text-align: left;
+    font-size: 10px;
+    width: 66px; 
+    height: 25px; 
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+#IDC{
+    padding-top: 5px; 
+    text-align: left;
+    font-size: 20px;
+    padding-top: 5px; 
+    text-align: left;
+    font-size: 10px;
+    width: 66px; 
+    height: 25px; 
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+#nlabel{
+    position: relative;
+    top: -43px;
+    margin-left: 170px;
+
+}
+#nombre{
+    padding-top: 5px; 
+    text-align: left;
+    font-size: 20px;
+    padding-top: 5px; 
+    text-align: right;
+    font-size: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-left: 5px;
+    position: relative;
+    top: -43px;
+}
+
+#IDE{
+    padding-top: 5px; 
+    text-align: left;
+    font-size: 20px;
+    padding-top: 5px; 
+    text-align: left;
+    font-size: 10px;
+    width: 66px; 
+    height: 25px; 
+    padding: 5px;
+    box-sizing: border-box;
+    position: relative;
+    top: -33px;
+}
+
+#IDElabel{
+    position: relative;
+    top: -32px;
+}
+
+#nelabel{
+    position: relative;
+    top: -70px;
+    margin-left: 180px;
+}
+
+#nombreE{
+    padding-top: 5px; 
+    text-align: left;
+    font-size: 20px;
+    padding-top: 5px; 
+    text-align: right;
+    font-size: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-left: 5px;
+    position: relative;
+    top: -73px;
+}
+
+#elabel{
+
+    position: relative;
+    top: -170px;
+    margin-left: 450px;
+}
+
+#estado{
+padding-top: 5px; 
+    text-align: left;
+    font-size: 20px;
+    padding-top: 5px; 
+    text-align: right;
+    font-size: 15px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-left: 5px;
+    position: relative;
+    top: -170px;
+}
+
+#FPlabel{
+
+    position: relative;
+    top: -170px;
+    margin-left: 470px;
+}
+
+#FP{
+padding-top: 5px; 
+    text-align: left;
+    font-size: 20px;
+    padding-top: 5px; 
+    text-align: right;
+    font-size: 15px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-left: 5px;
+    position: relative;
+    top: -170px;
+}
+
+#fechaActuall{
+
+    position: relative;
+    top: -260px;
+    margin-left: 650px;
+}
+
+#fechaActual{
+padding-top: 5px; 
+    text-align: left;
+    font-size: 20px;
+    padding-top: 5px; 
+    text-align: right;
+    font-size: 15px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-left: 5px;
+    position: relative;
+    top: -260px;
+}
+
+#fechaCierree{
+
+    position: relative;
+    top: -250px;
+    margin-left: 710px;
+}
+
+#fechaCierre{
+padding-top: 5px; 
+    text-align: left;
+    font-size: 20px;
+    padding-top: 5px; 
+    text-align: right;
+    font-size: 15px;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-left: 5px;
+    position: relative;
+    top: -250px;
+}
